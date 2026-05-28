@@ -1,0 +1,6 @@
+{
+  "name": "Water Tracker",
+  "description": "A smart, intuitive offline hydration application to track water intake, design flexible reminder schedules, and analyze progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

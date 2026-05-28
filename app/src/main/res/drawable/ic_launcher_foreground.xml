@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Beautiful custom crisp water drop centered on the 108dp grid -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,25 C54,25 33,49 33,63 C33,74.6 42.4,84 54,84 C65.6,84 75,74.6 75,63 C75,49 54,25 54,25 Z" />
+    <!-- Dynamic high-fidelity sheen highlight to add professional visual depth -->
+    <path
+        android:fillColor="#80FFFFFF"
+        android:pathData="M44,60 C42,63 42,67.5 44.5,70 C46,71.5 47.5,71 47.5,69.5 C47.5,68.5 46.5,68 46,67 C45.2,65.5 45.2,62 47,61 C48,60 46.5,58.5 44,60 Z" />
+</vector>
